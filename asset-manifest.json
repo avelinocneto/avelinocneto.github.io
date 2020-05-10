@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.42703e81.chunk.css",
-    "main.js": "/static/js/main.86bda549.chunk.js",
-    "main.js.map": "/static/js/main.86bda549.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.b57b3fb3.chunk.css": "/static/css/2.b57b3fb3.chunk.css",
-    "static/js/2.c96bff02.chunk.js": "/static/js/2.c96bff02.chunk.js",
-    "static/js/2.c96bff02.chunk.js.map": "/static/js/2.c96bff02.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.90fb2c458424eabe3320de11c74e0725.js": "/precache-manifest.90fb2c458424eabe3320de11c74e0725.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.b57b3fb3.chunk.css.map": "/static/css/2.b57b3fb3.chunk.css.map",
-    "static/css/main.42703e81.chunk.css.map": "/static/css/main.42703e81.chunk.css.map",
-    "static/media/flag-icon.scss": "/static/media/zw.8b885465.svg"
+    "main.css": "/avelinocneto.github.io/static/css/main.42703e81.chunk.css",
+    "main.js": "/avelinocneto.github.io/static/js/main.3c04995f.chunk.js",
+    "main.js.map": "/avelinocneto.github.io/static/js/main.3c04995f.chunk.js.map",
+    "runtime~main.js": "/avelinocneto.github.io/static/js/runtime~main.1e11c949.js",
+    "runtime~main.js.map": "/avelinocneto.github.io/static/js/runtime~main.1e11c949.js.map",
+    "static/css/2.1ca5c666.chunk.css": "/avelinocneto.github.io/static/css/2.1ca5c666.chunk.css",
+    "static/js/2.c96bff02.chunk.js": "/avelinocneto.github.io/static/js/2.c96bff02.chunk.js",
+    "static/js/2.c96bff02.chunk.js.map": "/avelinocneto.github.io/static/js/2.c96bff02.chunk.js.map",
+    "index.html": "/avelinocneto.github.io/index.html",
+    "precache-manifest.1f4ffff1327e599a45b04ad7a20adf16.js": "/avelinocneto.github.io/precache-manifest.1f4ffff1327e599a45b04ad7a20adf16.js",
+    "service-worker.js": "/avelinocneto.github.io/service-worker.js",
+    "static/css/2.1ca5c666.chunk.css.map": "/avelinocneto.github.io/static/css/2.1ca5c666.chunk.css.map",
+    "static/css/main.42703e81.chunk.css.map": "/avelinocneto.github.io/static/css/main.42703e81.chunk.css.map",
+    "static/media/flag-icon.scss": "/avelinocneto.github.io/static/media/zw.8b885465.svg"
   }
 }
