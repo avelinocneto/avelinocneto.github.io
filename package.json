@@ -3,7 +3,7 @@
 	"version": "0.1.0",
 	"private": true,
 	"license": "MIT",
-	"homepage": "https://avelinocneto.github.io",
+	"homepage": "https://avelinocneto.github.io/avelinocneto.github.io",
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^1.2.20",
 		"@fortawesome/free-brands-svg-icons": "^5.10.1",
